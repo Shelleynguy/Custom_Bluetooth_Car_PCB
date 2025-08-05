@@ -1,6 +1,3 @@
-Here’s an improved README description for your repository:
-
----
 
 # Custom Bluetooth Car PCB
 
@@ -18,8 +15,5 @@ An Arduino Nano-based Bluetooth BLE motor driver circuit featuring an H-bridge (
 - DIY automation projects
 - Educational electronics and robotics kits
 
----
-
-Let me know if you’d like to add setup instructions or more details!
 
 **still in progress, needs to be manufactured and componenets needed to purchase**
